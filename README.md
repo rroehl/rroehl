@@ -4,7 +4,7 @@ Below are links to Machine Learning, AWS, Terraform, and Docker projects:
 #### Machine Learning
 [AudioSummarizer](https://github.com/rroehl/AudioSummarizer/) - The project will use AWS Machine Learning to summarize an audio file.
 \
-[AudioSummarizer](https://github.com/rroehl/PDFSummarizer/) - The project will use AWS Machine Learning to summarize a large PDF document.
+[PDFSummarizer](https://github.com/rroehl/PDFSummarizer/) - The project will use AWS Machine Learning to summarize a large PDF document.
 
 #### AWS
 [AWS_ECSJenkinsImplementation](https://github.com/rroehl/AWS_ECSJenkinsImplementation/) - The repo "Terraforms" a container of the Jenkins master and linux agent in the AWS ECS/Fargate platform.
