@@ -1,16 +1,21 @@
-### Hi there 👋
+# Repositories
 
-<!--
-**rroehl/rroehl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Below are links to Machine Learning, AWS, Terraform, and Docker projects:
+#### Machine Learning
+[AudioSummarizer](https://github.com/rroehl/AudioSummarizer/) - The project will use AWS Machine Learning to summarize an audio file.
+\
+[AudioSummarizer](https://github.com/rroehl/PDFSummarizer/) - The project will use AWS Machine Learning to summarize a large PDF document.
 
-Here are some ideas to get you started:
+#### AWS
+[AWS_ECSJenkinsImplementation](https://github.com/rroehl/AWS_ECSJenkinsImplementation/) - The repo "Terraforms" a container of the Jenkins master and linux agent in the AWS ECS/Fargate platform.
+\
+[EC2StartStopInstances](https://github.com/rroehl/EC2StartStopInstances/) - AWS Schedule ECS Start Stop Instances Lambda Function.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Terraform 
+[TerraformCreateAWSEnterprise](https://github.com/rroehl/TerraformCreateAWSEnterprise/) - Terraforming AWS Enterprise (IaC) from a Complex Variable Data Structure.
+
+#### Docker
+[DevOpsDockerContainers](https://github.com/rroehl/DevOpsDockerContainers/) - DevOps Docker container: Jenkins, SonarQube, FitNesse & Nexus Artifactory.
+
+#### AWS Cloudformation
+[AWSWindowsInfrastructure](https://github.com/rroehl/AWSWindowsInfrastructure/) - Creates AWS Microsoft Domain forest Infrastructure using Cloudformation.
